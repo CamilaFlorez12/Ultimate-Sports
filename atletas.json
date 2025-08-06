@@ -1,91 +1,129 @@
-[{
-    "id_atleta":"01",
-    "nombre_atleta":"Coby White",
-    "edad":20,
-    "sexo":"Masculino",
-    "pais":"Estados Unidos",
-    "deporte":"Baloncesto",
-    "id_equipo":"01"
-},
-{
-    "id_atleta":"02",
-    "nombre_atleta":"Naomi Osaka",
-    "edad":27,
-    "sexo":"Femenino",
-    "pais":"Japón",
-    "deporte":"Tenis",
-    "id_equipo":"02"
-  },
-  {
-    "id_atleta":"03",
-    "nombre_atleta":"Kylian Mbappé",
-    "edad":26,
-    "sexo":"Masculino",
-    "pais":"Francia",
-    "deporte":"Fútbol",
-    "id_equipo":"03"
-  },
-  {
-    "id_atleta":"04",
-    "nombre_atleta":"Simone Biles",
-    "edad":28,
-    "sexo":"Femenino",
-    "pais":"Estados Unidos",
-    "deporte":"Gimnasia",
-    "id_equipo":"04"
-  },
-  {
-    "id_atleta":"05",
-    "nombre_atleta":"Yulimar Rojas",
-    "edad":29,
-    "sexo":"Femenino",
-    "pais":"Venezuela",
-    "deporte":"Atletismo",
-    "id_equipo":"05"
-  },
-  {
-    "id_atleta":"06",
-    "nombre_atleta":"Novak Djokovic",
-    "edad":38,
-    "sexo":"Masculino",
-    "pais":"Serbia",
-    "deporte":"Tenis",
-    "id_equipo":"06"
-  },
-  {
-    "id_atleta":"07",
-    "nombre_atleta":"Katie Ledecky",
-    "edad":28,
-    "sexo":"Femenino",
-    "pais":"Estados Unidos",
-    "deporte":"Natación",
-    "id_equipo":"07"
-  },
-  {
-    "id_atleta":"08",
-    "nombre_atleta":"Eliud Kipchoge",
-    "edad":40,
-    "sexo":"Masculino",
-    "pais":"Kenia",
-    "deporte":"Atletismo",
-    "id_equipo":"08"
-  },
-  {
-    "id_atleta":"09",
-    "nombre_atleta":"Aitana Bonmatí",
-    "edad":27,
-    "sexo":"Femenino",
-    "pais":"España",
-    "deporte":"Fútbol",
-    "id_equipo":"09"
-  },
-  {
-    "id_atleta":"10",
-    "nombre_atleta":"Sunisa Lee",
-    "edad":22,
-    "sexo":"Femenino",
-    "pais":"Estados Unidos",
-    "deporte":"Gimnasia",
-    "id_equipo":"10"
-  }
-]
+[
+    {
+      "id_atleta": "01",
+      "nombre_atleta": "Coby White",
+      "edad": 20,
+      "sexo": "Masculino",
+      "pais": "Estados Unidos",
+      "deporte": "Baloncesto",
+      "id_equipo": "01"
+    },
+    {
+      "id_atleta": "02",
+      "nombre_atleta": "Naomi Osaka",
+      "edad": 27,
+      "sexo": "Femenino",
+      "pais": "Japón",
+      "deporte": "Béisbol",
+      "id_equipo": "02"
+    },
+    {
+      "id_atleta": "03",
+      "nombre_atleta": "Kylian Mbappé",
+      "edad": 26,
+      "sexo": "Masculino",
+      "pais": "Francia",
+      "deporte": "Esgrima",
+      "id_equipo": "03"
+    },
+    {
+      "id_atleta": "04",
+      "nombre_atleta": "Simone Biles",
+      "edad": 28,
+      "sexo": "Femenino",
+      "pais": "Estados Unidos",
+      "deporte": "Gimnasia",
+      "id_equipo": "04"
+    },
+    {
+      "id_atleta": "05",
+      "nombre_atleta": "Yulimar Rojas",
+      "edad": 29,
+      "sexo": "Femenino",
+      "pais": "Italia",
+      "deporte": "Ciclismo",
+      "id_equipo": "05"
+    },
+    {
+      "id_atleta": "06",
+      "nombre_atleta": "Novak Djokovic",
+      "edad": 38,
+      "sexo": "Masculino",
+      "pais": "Sudáfrica",
+      "deporte": "Atletismo",
+      "id_equipo": "06"
+    },
+    {
+      "id_atleta": "07",
+      "nombre_atleta": "Katie Ledecky",
+      "edad": 28,
+      "sexo": "Femenino",
+      "pais": "Estados Unidos",
+      "deporte": "Natación",
+      "id_equipo": "07"
+    },
+    {
+      "id_atleta": "08",
+      "nombre_atleta": "Eliud Kipchoge",
+      "edad": 40,
+      "sexo": "Masculino",
+      "pais": "Brasil",
+      "deporte": "Atletismo",
+      "id_equipo": "08"
+    },
+    {
+      "id_atleta": "09",
+      "nombre_atleta": "Aitana Bonmatí",
+      "edad": 27,
+      "sexo": "Femenino",
+      "pais": "España",
+      "deporte": "Ciclismo",
+      "id_equipo": "09"
+    },
+    {
+      "id_atleta": "10",
+      "nombre_atleta": "Sunisa Lee",
+      "edad": 22,
+      "sexo": "Femenino",
+      "pais": "México",
+      "deporte": "Clavados",
+      "id_equipo": "10"
+    },
+    {
+      "id_atleta": "11",
+      "nombre_atleta": "Michael Hooper",
+      "edad": 33,
+      "sexo": "Masculino",
+      "pais": "Australia",
+      "deporte": "Rugby",
+      "id_equipo": "11"
+    },
+    {
+      "id_atleta": "12",
+      "nombre_atleta": "Emma McKeon",
+      "edad": 30,
+      "sexo": "Femenino",
+      "pais": "Australia",
+      "deporte": "Natación",
+      "id_equipo": "12"
+    },
+    {
+      "id_atleta": "13",
+      "nombre_atleta": "Helen Glover",
+      "edad": 38,
+      "sexo": "Femenino",
+      "pais": "Reino Unido",
+      "deporte": "Remo",
+      "id_equipo": "13"
+    },
+    {
+      "id_atleta": "14",
+      "nombre_atleta": "Jason Kenny",
+      "edad": 37,
+      "sexo": "Masculino",
+      "pais": "Reino Unido",
+      "deporte": "Ciclismo de pista",
+      "id_equipo": "14"
+    }
+  ]
+  

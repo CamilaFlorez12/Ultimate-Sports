@@ -1,191 +1,115 @@
-[{
-    "id_equipo":"01",
-    "nombre_equipo":"Chicago Bulls",
-    "deporte":"baloncesto",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-        {
-            "fecha":"1998",
-            "premio":"Campeonato NBA"
-        }
-    ],
-    "integrantes":[
-        {
-            "id_atleta":"01",
-            "nombre":"Coby White",
-            "edad":20
-        }
-    ]
-},
-{
-    "id_equipo":"02",
-    "nombre_equipo":"Los Angeles Lakers",
-    "deporte":"baloncesto",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2020",
-        "premio":"Campeonato NBA"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"02",
-        "nombre":"LeBron James",
-        "edad":39
-      }
-    ]
-  },
-  {
-    "id_equipo":"03",
-    "nombre_equipo":"New York Yankees",
-    "deporte":"béisbol",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2009",
-        "premio":"Serie Mundial"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"03",
-        "nombre":"Aaron Judge",
-        "edad":32
-      }
-    ]
-  },
-  {
-    "id_equipo":"04",
-    "nombre_equipo":"Golden State Warriors",
-    "deporte":"baloncesto",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2022",
-        "premio":"Campeonato NBA"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"04",
-        "nombre":"Stephen Curry",
-        "edad":37
-      }
-    ]
-  },
-  {
-    "id_equipo":"05",
-    "nombre_equipo":"Boston Red Sox",
-    "deporte":"béisbol",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2018",
-        "premio":"Serie Mundial"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"05",
-        "nombre":"Rafael Devers",
-        "edad":28
-      }
-    ]
-  },
-  {
-    "id_equipo":"06",
-    "nombre_equipo":"Miami Heat",
-    "deporte":"baloncesto",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2013",
-        "premio":"Campeonato NBA"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"06",
-        "nombre":"Jimmy Butler",
-        "edad":35
-      }
-    ]
-  },
-  {
-    "id_equipo":"07",
-    "nombre_equipo":"San Antonio Spurs",
-    "deporte":"baloncesto",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2014",
-        "premio":"Campeonato NBA"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"07",
-        "nombre":"Victor Wembanyama",
-        "edad":21
-      }
-    ]
-  },
-  {
-    "id_equipo":"08",
-    "nombre_equipo":"Houston Astros",
-    "deporte":"béisbol",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2022",
-        "premio":"Serie Mundial"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"08",
-        "nombre":"José Altuve",
-        "edad":35
-      }
-    ]
-  },
-  {
-    "id_equipo":"09",
-    "nombre_equipo":"Phoenix Suns",
-    "deporte":"baloncesto",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2021",
-        "premio":"Subcampeón NBA"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"09",
-        "nombre":"Devin Booker",
-        "edad":28
-      }
-    ]
-  },
-  {
-    "id_equipo":"10",
-    "nombre_equipo":"Atlanta Braves",
-    "deporte":"béisbol",
-    "id_delegacion":"01",
-    "ultima_participacion":[
-      {
-        "fecha":"2021",
-        "premio":"Serie Mundial"
-      }
-    ],
-    "integrantes":[
-      {
-        "id_atleta":"10",
-        "nombre":"Ronald Acuña Jr.",
-        "edad":27
-      }
-    ]
-  }
-]
+ [
+    {
+      "id_equipo": "01",
+      "nombre_equipo": "Chicago Bulls",
+      "deporte": "Baloncesto",
+      "id_delegacion": "01",
+      "ultima_participacion": [{ "fecha": "1998", "premio": "Campeonato NBA" }],
+      "integrantes": [{ "id_atleta": "01", "nombre": "Coby White", "edad": 20 }]
+    },
+    {
+      "id_equipo": "02",
+      "nombre_equipo": "Los Angeles Lakers",
+      "deporte": "Béisbol",
+      "id_delegacion": "04",
+      "ultima_participacion": [{ "fecha": "2020", "premio": "Campeonato NBA" }],
+      "integrantes": [{ "id_atleta": "02", "nombre": "Naomi Osaka", "edad": 27 }]
+    },
+    {
+      "id_equipo": "03",
+      "nombre_equipo": "New York Yankees",
+      "deporte": "Esgrima",
+      "id_delegacion": "05",
+      "ultima_participacion": [{ "fecha": "2009", "premio": "Serie Mundial" }],
+      "integrantes": [{ "id_atleta": "03", "nombre": "Kylian Mbappé", "edad": 26 }]
+    },
+    {
+      "id_equipo": "04",
+      "nombre_equipo": "Golden State Warriors",
+      "deporte": "Gimnasia",
+      "id_delegacion": "01",
+      "ultima_participacion": [{ "fecha": "2022", "premio": "Campeonato NBA" }],
+      "integrantes": [{ "id_atleta": "04", "nombre": "Simone Biles", "edad": 28 }]
+    },
+    {
+      "id_equipo": "05",
+      "nombre_equipo": "Boston Red Sox",
+      "deporte": "Ciclismo",
+      "id_delegacion": "07",
+      "ultima_participacion": [{ "fecha": "2018", "premio": "Serie Mundial" }],
+      "integrantes": [{ "id_atleta": "05", "nombre": "Yulimar Rojas", "edad": 29 }]
+    },
+    {
+      "id_equipo": "06",
+      "nombre_equipo": "Miami Heat",
+      "deporte": "Atletismo",
+      "id_delegacion": "11",
+      "ultima_participacion": [{ "fecha": "2013", "premio": "Campeonato NBA" }],
+      "integrantes": [{ "id_atleta": "06", "nombre": "Novak Djokovic", "edad": 38 }]
+    },
+    {
+      "id_equipo": "07",
+      "nombre_equipo": "San Antonio Spurs",
+      "deporte": "Natación",
+      "id_delegacion": "01",
+      "ultima_participacion": [{ "fecha": "2014", "premio": "Campeonato NBA" }],
+      "integrantes": [{ "id_atleta": "07", "nombre": "Katie Ledecky", "edad": 28 }]
+    },
+    {
+      "id_equipo": "08",
+      "nombre_equipo": "Houston Astros",
+      "deporte": "Atletismo",
+      "id_delegacion": "03",
+      "ultima_participacion": [{ "fecha": "2022", "premio": "Serie Mundial" }],
+      "integrantes": [{ "id_atleta": "08", "nombre": "Eliud Kipchoge", "edad": 40 }]
+    },
+    {
+      "id_equipo": "09",
+      "nombre_equipo": "Phoenix Suns",
+      "deporte": "Ciclismo",
+      "id_delegacion": "12",
+      "ultima_participacion": [{ "fecha": "2021", "premio": "Subcampeón NBA" }],
+      "integrantes": [{ "id_atleta": "09", "nombre": "Aitana Bonmatí", "edad": 27 }]
+    },
+    {
+      "id_equipo": "10",
+      "nombre_equipo": "Atlanta Braves",
+      "deporte": "Clavados",
+      "id_delegacion": "13",
+      "ultima_participacion": [{ "fecha": "2021", "premio": "Serie Mundial" }],
+      "integrantes": [{ "id_atleta": "10", "nombre": "Sunisa Lee", "edad": 22 }]
+    },
+    {
+      "id_equipo": "11",
+      "nombre_equipo": "Sydney Sharks",
+      "deporte": "Rugby",
+      "id_delegacion": "16",
+      "ultima_participacion": [{ "fecha": "2024", "premio": "Campeón Oceanía" }],
+      "integrantes": [{ "id_atleta": "11", "nombre": "Michael Hooper", "edad": 33 }]
+    },
+    {
+      "id_equipo": "12",
+      "nombre_equipo": "Melbourne Dolphins",
+      "deporte": "Natación",
+      "id_delegacion": "16",
+      "ultima_participacion": [{ "fecha": "2023", "premio": "Oro Mundial de Natación" }],
+      "integrantes": [{ "id_atleta": "12", "nombre": "Emma McKeon", "edad": 30 }]
+    },
+    {
+      "id_equipo": "13",
+      "nombre_equipo": "London Lions",
+      "deporte": "Remo",
+      "id_delegacion": "17",
+      "ultima_participacion": [{ "fecha": "2024", "premio": "Campeón Europeo de Remo" }],
+      "integrantes": [{ "id_atleta": "13", "nombre": "Helen Glover", "edad": 38 }]
+    },
+    {
+      "id_equipo": "14",
+      "nombre_equipo": "Manchester Foxes",
+      "deporte": "Ciclismo de pista",
+      "id_delegacion": "17",
+      "ultima_participacion": [{ "fecha": "2023", "premio": "Oro Mundial de Ciclismo" }],
+      "integrantes": [{ "id_atleta": "14", "nombre": "Jason Kenny", "edad": 37 }]
+    }
+  ]
+  
