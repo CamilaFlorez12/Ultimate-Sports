@@ -1,0 +1,167 @@
+[{
+    "id_delegacion":"01",
+    "pais":"Estados Unidos",
+    "equipos":[
+        {"id_equipo":"01","deporte":"Baloncesto"},
+        {"id_equipo":"02","deporte":"Béisbol"}
+    ],
+    "medallas_gandas":[
+        {"oro":2,"plata":5,"bronce":0
+        }
+    ]
+},
+{
+    "id_delegacion":"02",
+    "pais":"Canadá",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Hockey sobre hielo"},
+      {"id_equipo":"02", "deporte":"Curling"}
+    ],
+    "medallas_gandas":[
+      {"oro":1, "plata":2, "bronce":3}
+    ]
+  },
+  {
+    "id_delegacion":"03",
+    "pais":"Brasil",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Fútbol"},
+      {"id_equipo":"02", "deporte":"Voleibol"}
+    ],
+    "medallas_gandas":[
+      {"oro":3, "plata":1, "bronce":2}
+    ]
+  },
+  {
+    "id_delegacion":"04",
+    "pais":"Japón",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Judo"},
+      {"id_equipo":"02", "deporte":"Béisbol"}
+    ],
+    "medallas_gandas":[
+      {"oro":4, "plata":2, "bronce":1}
+    ]
+  },
+  {
+    "id_delegacion":"05",
+    "pais":"Francia",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Esgrima"},
+      {"id_equipo":"02", "deporte":"Balonmano"}
+    ],
+    "medallas_gandas":[
+      {"oro":2, "plata":3, "bronce":4}
+    ]
+  },
+  {
+    "id_delegacion":"06",
+    "pais":"Alemania",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Remo"},
+      {"id_equipo":"02", "deporte":"Atletismo"}
+    ],
+    "medallas_gandas":[
+      {"oro":1, "plata":4, "bronce":2}
+    ]
+  },
+  {
+    "id_delegacion":"07",
+    "pais":"Italia",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Ciclismo"},
+      {"id_equipo":"02", "deporte":"Natación"}
+    ],
+    "medallas_gandas":[
+      {"oro":3, "plata":2, "bronce":1}
+    ]
+  },
+  {
+    "id_delegacion":"08",
+    "pais":"China",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Tenis de mesa"},
+      {"id_equipo":"02", "deporte":"Gimnasia"}
+    ],
+    "medallas_gandas":[
+      {"oro":5, "plata":1, "bronce":2}
+    ]
+  },
+  {
+    "id_delegacion":"09",
+    "pais":"Reino Unido",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Remo"},
+      {"id_equipo":"02", "deporte":"Ciclismo de pista"}
+    ],
+    "medallas_gandas":[
+      {"oro":2, "plata":2, "bronce":2}
+    ]
+  },
+  {
+    "id_delegacion":"10",
+    "pais":"Australia",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Natación"},
+      {"id_equipo":"02", "deporte":"Rugby"}
+    ],
+    "medallas_gandas":[
+      {"oro":4, "plata":3, "bronce":1}
+    ]
+  },
+  {
+    "id_delegacion":"11",
+    "pais":"Sudáfrica",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Atletismo"},
+      {"id_equipo":"02", "deporte":"Críquet"}
+    ],
+    "medallas_gandas":[
+      {"oro":1, "plata":0, "bronce":2}
+    ]
+  },
+  {
+    "id_delegacion":"12",
+    "pais":"España",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Baloncesto"},
+      {"id_equipo":"02", "deporte":"Ciclismo"}
+    ],
+    "medallas_gandas":[
+      {"oro":2, "plata":1, "bronce":3}
+    ]
+  },
+  {
+    "id_delegacion":"13",
+    "pais":"México",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Taekwondo"},
+      {"id_equipo":"02", "deporte":"Clavados"}
+    ],
+    "medallas_gandas":[
+      {"oro":0, "plata":2, "bronce":3}
+    ]
+  },
+  {
+    "id_delegacion":"14",
+    "pais":"Argentina",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Fútbol"},
+      {"id_equipo":"02", "deporte":"Hockey sobre césped"}
+    ],
+    "medallas_gandas":[
+      {"oro":1, "plata":1, "bronce":1}
+    ]
+  },
+  {
+    "id_delegacion":"15",
+    "pais":"Corea del Sur",
+    "equipos":[
+      {"id_equipo":"01", "deporte":"Tiro con arco"},
+      {"id_equipo":"02", "deporte":"Taekwondo"}
+    ],
+    "medallas_gandas":[
+      {"oro":3, "plata":1, "bronce":2}
+    ]
+  }
+]
